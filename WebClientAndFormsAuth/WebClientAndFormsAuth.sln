@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProvider", "DataProvider\DataProvider.csproj", "{4230EE52-AE00-4FA0-9A4A-2CF5D5373A0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConsumer", "DataConsumer\DataConsumer.csproj", "{CC428CFC-7693-4218-9422-B6086769141F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4230EE52-AE00-4FA0-9A4A-2CF5D5373A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4230EE52-AE00-4FA0-9A4A-2CF5D5373A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4230EE52-AE00-4FA0-9A4A-2CF5D5373A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4230EE52-AE00-4FA0-9A4A-2CF5D5373A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC428CFC-7693-4218-9422-B6086769141F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC428CFC-7693-4218-9422-B6086769141F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC428CFC-7693-4218-9422-B6086769141F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC428CFC-7693-4218-9422-B6086769141F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
